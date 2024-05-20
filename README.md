@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xperimance&label=Profile%20views&color=0e75b6&style=flat" alt="xperimance" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Node, Express, MongoDB**
+- 🌱 I’m currently learning **JavaScript, React, Python, SAP S/4HANA**
 
 - 📫 How to reach me **xperimance@gmail.com**
 
