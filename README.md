@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi! I'm Dale Hendricks</h1>
-<h3 align="center">A self-taught Web Developer from South Africa, currently living in Japan</h3>
+<h3 align="center">A self-taught Developer from South Africa, currently living in Japan</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xperimance&label=Profile%20views&color=0e75b6&style=flat" alt="xperimance" /> </p>
